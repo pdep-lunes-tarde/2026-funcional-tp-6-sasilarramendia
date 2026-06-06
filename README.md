@@ -11,8 +11,8 @@
 
 ## Nombre y legajo
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 222.445-8
+- Nombre: Sabrina Larramendia
 
 ## El enunciado
 
